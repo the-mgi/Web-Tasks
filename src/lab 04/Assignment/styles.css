@@ -1,0 +1,146 @@
+body {
+    background-color: #C8C8C8;
+    font-family: Garamond, sans-serif;
+    height: 100vh;
+}
+
+.main-container {
+    background-color: #fcfafa;
+    position: relative;
+    top: 25px;
+    display: flex;
+    height: 90%;
+}
+
+.left-right-housing {
+    display: block;
+    position: relative;
+    margin: auto;
+}
+
+.left-container {
+    float: left;
+    height: 600px;
+    background-color: #00BFF1;
+    width: inherit;
+}
+
+h1 {
+    color: white;
+    padding-left: 7%;
+    width: fit-content;
+}
+
+.form {
+    padding: 15px;
+}
+
+.left-container input, .input-div input, button {
+    background-color: #4BCEF2;
+    outline: none;
+    border: none;
+    padding: 15px;
+    width: 220px;
+    font-family: Garamond, sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+    transition: .3s;
+    border-radius: 5px;
+    color: white;
+}
+
+.left-container input:focus, .input-div input:focus,
+.left-container input:hover, .input-div input:hover,
+label[for=txtArea] + textarea:hover, label[for=txtArea] + textarea:focus{
+    box-shadow: 0 0 7px 0 #2E68B2;
+}
+
+.left-container input::placeholder {
+    color: white;
+}
+
+.right-container {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    height: 600px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+
+.links   {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 20px 0;
+
+}
+
+.input-div {
+    position: relative;
+    width: 280px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.input-div input {
+    border-radius: 3px;
+    background: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #9bc3f8;
+    margin-bottom: 10px;
+
+}
+
+.input-div i {
+    position: absolute;
+    top: 8px;
+    right: 13px;
+    color: #00BFF1;
+}
+
+input[id=dropdown] + i {
+    right: 18px;
+}
+
+label[for=txtArea] + textarea {
+    border-radius: 3px;
+    border: 2px solid #9bc3f8;
+    width: 272px;
+    resize: none;
+    transition: .3s;
+
+}
+
+.links img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.form-bottom tbody tr:nth-child(3) input,
+.form-bottom tbody tr:nth-child(3) input:focus,
+.form-bottom tbody tr:nth-child(3) input:hover{
+    transition: none;
+    box-shadow: none;
+}
+
+button {
+    position: relative;
+    top: 150px;
+    margin: 15px;
+    width: 250px;
+    transition: .3s;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:hover, button:focus {
+    box-shadow: 0 0 7px 0 #2E68B2;
+}
+

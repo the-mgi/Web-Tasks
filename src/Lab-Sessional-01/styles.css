@@ -1,0 +1,97 @@
+body {
+    background-image: url("res/edgar-chaparro-7HDi-EkG11I-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right table {
+    padding: 200px;
+    margin-left: 100px;
+    width: 900px;
+    color: white;
+    font-family: Garamond, sans-serif;
+}
+
+.text {
+    margin: 10px;
+    font-size: 35px;
+}
+
+.our-prices, .btnn {
+    background-color: #EF8940;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+table[class=tab] {
+    padding: 15px;
+    width: inherit;
+    height: 300px;
+    background-color: rgba(57, 55, 56, .6);
+}
+
+p {
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.top-container {
+    background-color: rgba(53, 53, 53, .9);
+    padding: 10px;
+}
+
+input, textarea {
+    width: 410px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    padding-left: 30px;
+    font-family: Garamond, sans-serif;
+    font-size: 20px;
+    margin: 5px;
+}
+
+textarea {
+    padding: 50px 0 0 30px;
+    height: 120px;
+
+}
+
+.sign-up {
+    width: 445px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: #EF8940;
+    font-size: 15px;
+}
+
+.last {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: rgba(239, 137, 64, 1);
+    outline: none;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Making Directional Triangle or Caret Icons with CSS</title>
+    <style>
+        .caret {
+            width: 0;
+            height: 0;
+            border: 10px solid transparent;
+        }
+
+        .caret.down {
+            border-top-color: black;
+        }
+
+        .caret.right {
+            border-left-color: black;
+        }
+
+        .caret.up {
+            border-bottom-color: black;
+        }
+
+        .caret.left {
+            border-right-color: black;
+        }
+    </style>
+</head>
+<body>
+<h3>Triangle or Caret Icon Pointing Down</h3>
+<div><span class="caret down"></span></div>
+<hr>
+<h3>Triangle or Caret Icon Pointing Right</h3>
+<div><span class="caret right"></span></div>
+<hr>
+<h3>Triangle or Caret Icon Pointing Up</h3>
+<div><span class="caret up"></span></div>
+<hr>
+<h3>Triangle or Caret Icon Pointing Left</h3>
+<div><span class="caret left"></span></div>
+</body>
+</html>

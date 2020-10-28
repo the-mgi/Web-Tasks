@@ -1,0 +1,11 @@
+h1, p, .special {
+    color: red;
+}
+
+.main strong {
+    color: red;
+}
+
+h2 > p {
+    color: red;
+}

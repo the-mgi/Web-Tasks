@@ -1,0 +1,63 @@
+.main-container, .main-container .content, .main-container .header{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+
+}
+
+.main-container {
+    border: 1px solid black;
+}
+
+input[type=text], input[type=password] {
+    width: 80%;
+    margin-top: 20px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.sub-content, .o-auth-services {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.sub-sub-container {
+    margin-right: 100px;
+}
+
+hr {
+    border: 2px dashed black;
+    padding: 0;
+    width: 80%;
+    /* background-color: black; */
+}
+
+.header {
+    background-color: #FFC100;
+    width: 100%;
+}
+
+.header span img {
+    width: 70px;
+    margin: 10px;
+}
+
+button[type=submit] {
+    color: white;
+    background-color: #FFC100;
+    border: 1px solid #FFC100;
+    font-size: 20px;
+    width: 80%;
+    height: 50px;
+
+}
+
+.images {
+    width: 60px;
+    margin-right: 20px;
+}

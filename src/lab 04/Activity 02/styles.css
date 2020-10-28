@@ -1,0 +1,134 @@
+body {
+    background-color: gray;
+    font-family: Garamond, sans-serif;
+}
+
+.containers-container {
+    background-color: #5f5e5e;
+    width: 90%;
+    position: relative;
+    top: 50px;
+    margin: auto;
+    height: 790px;
+}
+
+.upper-container, .lower-container {
+    width: fit-content;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.upper-container {
+    position: relative;
+    top: 20px;
+    margin: auto;
+}
+
+.lower-container {
+    position: relative;
+    top: 50px;
+    margin: auto;
+}
+
+.form {
+    padding: 8px;
+}
+
+.form-data input, .form-data-bottom input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    padding-left: 20px;
+    font-family: Garamond, sans-serif;
+    font-size: 18px;
+    transition: .3s;
+    margin-right: 5px;
+}
+
+h2 {
+    padding-left: 10px;
+}
+
+.form-data input:focus, .form-data-bottom input:focus {
+    border-bottom: 2px solid blue;
+}
+
+.b {
+    position: relative;
+    top: 2%;
+    padding: 8px 15px;
+}
+
+.b a {
+    position: relative;
+    right: 10px;
+    font-size: 15px;
+}
+
+.btn-sign-up {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+button[type=submit] {
+    background-color: #2E68B2;
+    outline: none;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 35px;
+    margin: 5px;
+    font-family: Garamond, sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+button[type=submit]:focus {
+    box-shadow: 0 0 6px 0 blue;
+}
+
+button[type=submit]:hover {
+    cursor: pointer;
+}
+
+.top-header, .top-header-bottom {
+    background-color: #ded8d8;
+    border-radius: 5px 5px 0 0;
+    height: 50px;
+    padding-left: 20px;
+}
+
+.top-header > h3, .top-header-bottom > h3 {
+    text-align: left;
+}
+
+.top-header > h3, .top-header-bottom > h3 {
+    color: black;
+    padding: 10px;
+}
+
+.containers-container p {
+    color: white;
+    position: absolute;
+    top: 94%;
+    right: 2%;
+}
+
+
+.containers-container p > span {
+    margin-right: 5px;
+}
+
+p span:last-child {
+    color: #EF8940;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table tr:last-child input[placeholder=Country] {
+    width: 94%;
+}
