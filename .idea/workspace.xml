@@ -1,54 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1895f90b-aa27-4db9-97b7-998a318f0fed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Web Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 02 HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/basic-form/240px-COMSATS_new_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/basic-form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/basic-form/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/caret.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/index-one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/styles-one.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/svgs/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/svgs/id-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/svgs/password.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/css-forms/svgs/register.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/div-in-input-field/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/white-gray-form/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/white-gray-form/index-zero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/white-gray-form/style-zero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/white-gray-form/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/logo-sq-twitter-twitter-logo-icon-twitter-icon-png-512_298.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/yellow-form-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab 03 CSS/yellow-form/yellow-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/res/background-main-page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/res/edgar-chaparro-7HDi-EkG11I-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/res/nicolas-cool-SpNbLsJuuYQ-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Activity 02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Activity 02/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/res/dribbble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/res/facebook (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/res/google-plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/res/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab 04/Assignment/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture 07/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web-sessional/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web-sessional/quest-04.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web-sessional/test/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/web-sessional/test/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +115,7 @@
       <workItem from="1603787100458" duration="16000" />
       <workItem from="1603787737451" duration="3482000" />
       <workItem from="1603794565725" duration="739000" />
-      <workItem from="1603834912371" duration="11762000" />
+      <workItem from="1603834912371" duration="12061000" />
     </task>
     <servers />
   </component>
