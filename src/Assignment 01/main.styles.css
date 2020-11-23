@@ -1,0 +1,108 @@
+html {
+    background-color: #DDFFDD;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main-container {
+    position: relative;
+    box-sizing: content-box;
+/*    box sizing content box is used because increase of the overall box size is intended*/
+}
+
+.right-container {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    margin-right: 0;
+    box-sizing: content-box;
+    /*    box sizing content box is used because increase of the overall box size is intended*/
+
+}
+
+.right-container {
+    border: 2px solid black;
+}
+
+.container {
+    display: inline-block;
+}
+
+.container p {
+    text-indent: 30px;
+}
+
+.container img {
+    float: right;
+}
+
+.news-section {
+    box-sizing: content-box;
+    padding: 20px;
+}
+
+.n {
+    background-color: #FFFF88;
+    padding: 2px;
+}
+
+.n ul {
+    padding: 0;
+}
+
+.n li {
+    list-style-type: none;
+}
+
+.news {
+    margin: 10px;
+    padding: 20px;
+    background-color: #FFFFCC;
+    width: 200px;
+}
+
+.main-section {
+    padding: 10px;
+}
+
+.main-section h2 {
+    background-color: #008000;
+    width: fit-content;
+    color: white;
+    padding: 2px;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 0;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.events-container {
+    background-color: #00EEEE;
+    width: fit-content;
+    padding: 10px;
+    border: 2px solid black;
+    position: fixed;
+    top: 20px;
+    right: 1%;
+    float: right;
+}
+
+.events-container h1 {
+    margin: 5px;
+}
+
+.events-container ul {
+    position: relative;
+    right: 10px;
+    margin-top: 0;
+}

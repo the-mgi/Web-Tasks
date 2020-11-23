@@ -1,0 +1,316 @@
+@font-face {
+    font-family: "Product-Sans-Regular";
+    src: local("Product-Sans-Regular"), url("res/fonts/ProductSans-Regular.ttf");
+}
+
+:root {
+    --background-color-val: #C7C6C9;
+    --background-color-dark-var: #4A4C50;
+    --nav-color-default: #C32B2D;
+    --nav-color-hover: #F6F8FA;
+    --icon-color-default: #FEDF59;
+    --icon-color-hover: #BA0C1A;
+    --border-default-top: #010402;
+    --border-default-bottom: #B8AAAB;
+    --border-hover-top: #616063;
+    --a-color-hover: #1E0607;
+    --i-color-yello-footer: #F9DE5E;
+    --footer-color: #2E3034;
+    --footer-social-background: #4C4E52;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Product-Sans-Regular, sans-serif;
+    background-color: var(--background-color-val);
+    margin: 0;
+}
+
+main, header {
+    margin: 20px 100px 0 100px;
+
+}
+
+.title-motto h1 {
+    color: var(--nav-color-default);
+    margin: 0;
+    font-size: 60px;
+}
+
+h1, p {
+    color: white;
+    text-align: justify;
+}
+
+.title-motto p {
+    margin: 0;
+}
+
+i {
+    color: var(--icon-color-default);
+    font-size: 22px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header nav {
+    width: 100%;
+}
+
+.i {
+    color: #5f1117;
+}
+
+header ul {
+    display: flex;
+    flex-direction: row;
+    margin-left: -3%;
+}
+
+header nav ul li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 16.6%;
+    height: 100px;
+    list-style-type: none;
+    background-color: var(--nav-color-default);
+    border-right: 1px solid black;
+    border-top: 5px solid var(--border-default-top);
+    border-bottom: 5px solid var(--border-default-bottom);
+    transition: .3s ease-in-out;
+}
+
+header nav ul li:hover {
+    background-color: var(--nav-color-hover);
+    cursor: pointer;
+    border-top-color: var(--border-hover-top);
+}
+
+header nav ul li:hover a {
+    color: var(--a-color-hover);
+}
+
+header nav ul li:hover i {
+    color: var(--icon-color-hover);
+}
+
+header nav ul li a {
+    margin-top: 10px;
+}
+
+/* top container*/
+.top-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: fit-content;
+}
+
+.top-container-left {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    height: fit-content;
+}
+
+.top-container-left-top {
+    width: 100%;
+    height: fit-content;
+}
+
+.text {
+    position: absolute;
+    bottom: 5px;
+    left: 10%;
+}
+
+.text * {
+    color: white;
+    box-sizing: border-box;
+    margin: 0;
+    width: fit-content;
+}
+
+img[alt="oblivion-movie"] {
+    width: 100%;
+    height: fit-content;
+}
+
+img[alt="hansel-and-gretal-movie-poster"] {
+    width: 100%;
+}
+
+img[alt="iron-man-poster"] {
+    width: 30%;
+}
+
+.top-container-right {
+    background-color: var(--background-color-dark-var);
+    border-top: 5px solid var(--nav-color-default);
+    width: 25%;
+    box-shadow: 3px 0 20px black inset;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.m {
+    margin: 20px 40px 0 40px;
+}
+
+.top-container-left-bottom {
+    background-color: var(--background-color-dark-var);
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+    border-top: 5px solid var(--nav-color-default);
+}
+
+.top-container-left-bottom .text-beside-iron-man {
+    padding-left: 30px;
+}
+
+.n {
+    background-color: var(--nav-color-default);
+    width: 100%;
+    height: 100px;
+}
+
+#watchFilms {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+}
+
+/* Middle Container */
+.middle-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.middle-container-category {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 33.3%;
+    margin: 2%;
+}
+
+.middle-container-category h1 {
+    color: black;
+}
+
+.middle-container-category h3, .middle-container-category p {
+    margin: 5px;
+}
+
+.img-container {
+    width: fit-content;
+    height: fit-content;
+    /*background-color: white;*/
+}
+
+.img-container img {
+    width: 70%;
+    height: 80%;
+    border: 10px solid white;
+    margin-bottom: 0;
+}
+
+/* Footer Styles */
+footer {
+    margin: 0;
+}
+
+.arrange {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: var(--footer-color);
+    margin-top: 100px;
+    border-top: 5px solid var(--nav-color-default);
+    padding: 50px;
+}
+
+footer h3 {
+    color: white;
+}
+
+.row-zero *, .row-first * {
+    margin: 5px;
+}
+
+.row-zero span, .row-first span {
+    color: white;
+}
+
+.left i {
+    color: white;
+    font-size: 10px;
+}
+
+.left i:nth-child(2) {
+    font-size: 5px;
+}
+
+.main-center {
+    display: flex;
+    flex-direction: column;
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.center i {
+    color: var(--i-color-yello-footer);
+    margin-right: 8px;
+}
+
+.row-zero, .row-first {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.row-links-social ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+
+.row-links-social ul li {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    list-style-type: none;
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+    background-color: var(--footer-social-background);
+    border-radius: 40px;
+}
+
+.row-links-social ul li:first-child {
+    margin-left: 0;
+}
+
+.row-links-social ul li:hover {
+    cursor: pointer;
+}
+
+.row-links-social ul li a i {
+    color: white;
+}

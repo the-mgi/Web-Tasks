@@ -1,0 +1,24 @@
+.main-container {
+    box-sizing: content-box;
+    padding: 20px;
+    /*    box sizing content box is used because increase of the overall box size is intended*/
+
+}
+
+h2 {
+    background-color: #008000;
+    width: fit-content;
+    color: white;
+    padding: 2px;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 0;
+    background-color: black;
+    border: 1px solid black;
+}
+
+:target {
+    background-color: #ffa;
+}

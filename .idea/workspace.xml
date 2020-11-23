@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,8 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1895f90b-aa27-4db9-97b7-998a318f0fed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab 06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab 06/res/Islamabad,_Pakistan_Monument.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab 06/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Web Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/web-sessional/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab-Sessional-01/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab-Sessional-01/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +45,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab-Sessional-01/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lab 07 bootsrtap/res" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -48,45 +57,43 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab-Sessional-01\res" />
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab 03 CSS\css-form-yellow" />
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab 03 CSS\css-forms\svgs" />
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\lab 07 bootsrtap\res" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Class Assignment 02 Hasnain" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Class Assignment 02\ss" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Class Assignment 02\res\fonts" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\lab 06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\lab 07 bootsrtap" />
+      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Class Assignment 02\res\imgs" />
       <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\lab 04\Activity 02" />
       <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab-Sessional-01\res" />
       <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab 03 CSS\basic-form" />
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\Lab 02 HTML" />
-      <recent name="C:\Users\themg\WebstormProjects\Web Theory\src\lecture 5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/web-sessional/form.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/lab 07 bootsrtap/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index-zero.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/Lab 03 CSS/white-gray-form/index-zero.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/Lab 05/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/lab 04/Assignment/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/lab 06/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/Lab-Sessional-01/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/Class Assignment 02/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/lab 04/Activity 02/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/web-sessional/test/test.html" useBuiltInWebServerPort="true">
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web Theory/src/Assignment 01/main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.home.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.test.html" />
-        <item itemvalue="JavaScript Debug.form.html" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.main.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -115,8 +122,34 @@
       <workItem from="1603787100458" duration="16000" />
       <workItem from="1603787737451" duration="3482000" />
       <workItem from="1603794565725" duration="739000" />
-      <workItem from="1603834912371" duration="12061000" />
+      <workItem from="1603834912371" duration="12178000" />
+      <workItem from="1604343945365" duration="11412000" />
+      <workItem from="1604355656215" duration="122000" />
+      <workItem from="1604386527848" duration="9815000" />
+      <workItem from="1604414158135" duration="12000" />
+      <workItem from="1604474334223" duration="622000" />
+      <workItem from="1604515259170" duration="221000" />
+      <workItem from="1604518102084" duration="8000" />
+      <workItem from="1604993067364" duration="8752000" />
+      <workItem from="1605015877273" duration="142000" />
+      <workItem from="1605020738618" duration="102000" />
+      <workItem from="1605435938909" duration="21513000" />
+      <workItem from="1605464088180" duration="2741000" />
+      <workItem from="1605548056712" duration="108000" />
+      <workItem from="1605805723407" duration="1475000" />
+      <workItem from="1605958963719" duration="4011000" />
+      <workItem from="1606128162685" duration="3368000" />
+      <workItem from="1606131916044" duration="10251000" />
+      <workItem from="1606150535742" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed Un-necessary files">
+      <created>1603847116793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603847116793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,91 +165,105 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Removed Un-necessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Un-necessary files" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="520" y="242" key="#Images" timestamp="1605445296875">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="520" y="242" key="#Images/0.0.1536.864@0.0.1536.864" timestamp="1605445296875" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1602956235254">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602956235254" />
-    <state width="746" height="306" key="GridCell.Tab.0.bottom" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.0.bottom" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.0.center" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.0.center" timestamp="1606131533839">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.0.left" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606131533839" />
+    <state width="1515" height="378" key="GridCell.Tab.0.left" timestamp="1606131533839">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.0.right" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606131533839" />
+    <state width="1515" height="378" key="GridCell.Tab.0.right" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.1.bottom" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.1.bottom" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.1.center" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.1.center" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.1.left" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.1.left" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.1.right" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.1.right" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.2.bottom" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.2.bottom" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.2.center" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.2.center" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.2.left" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.2.left" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.2.right" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="1515" height="378" key="GridCell.Tab.2.right" timestamp="1606131533840">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.3.bottom" timestamp="1603846487690">
+    <state width="1515" height="378" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1606131533840" />
+    <state width="745" height="305" key="GridCell.Tab.3.bottom" timestamp="1604515481359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.3.center" timestamp="1603846487690">
+    <state width="745" height="305" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604515481359" />
+    <state width="745" height="305" key="GridCell.Tab.3.center" timestamp="1604515481359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.3.left" timestamp="1603846487690">
+    <state width="745" height="305" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1604515481359" />
+    <state width="745" height="305" key="GridCell.Tab.3.left" timestamp="1604515481359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
-    <state width="746" height="306" key="GridCell.Tab.3.right" timestamp="1603846487690">
+    <state width="745" height="305" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1604515481359" />
+    <state width="745" height="305" key="GridCell.Tab.3.right" timestamp="1604515481359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="306" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1603846487690" />
+    <state width="745" height="305" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1604515481359" />
+    <state x="554" y="135" key="RollbackChangesDialog" timestamp="1604346782281">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604346782281" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603847120385">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603847120381" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1602855071715">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1536.864@0.0.1536.864" timestamp="1602855071715" />
-    <state x="809" y="200" key="run.anything.popup" timestamp="1601972042124">
+    <state x="809" y="200" key="run.anything.popup" timestamp="1605449577517">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="809" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1601972042124" />
-    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1602855309163">
+    <state x="809" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605449577517" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606146242855">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1602855309163" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606146242855" />
   </component>
 </project>

@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: #EBE6E8;
+}
+
+nav ul {
+    background-color: #807F80;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    padding: 14px 16px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color: #079F55;
+    cursor: pointer;
+}
+
+nav li:first-child {
+    background-color: #079F55;
+    cursor: pointer;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+main > section li {
+    list-style-type: none;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: #F1EFF1;
+    width: 150px;
+    margin: 5px;
+    text-align: center;
+}
+
+main > section {
+    float: left;
+}
+
+main > section li:hover {
+    background-color: #0084B6;
+    cursor: pointer;
+}
+
+main > section li:nth-child(2) {
+    background-color: #0084B6;
+    cursor: pointer;
+}
+
+main > section li a {
+    text-decoration: none;
+    color: gray;
+}
+
+.aa {
+    color: white;
+}
+
+main section:nth-child(2) {
+    float: right;
+}
+
+main section:nth-child(2) h1 {
+    text-align: center;
+    background-color: #0091FB;
+    padding: 30px;
+    color: white;
+}
+
+.container .p {
+    float: left;
+    width: 80%;
+}
+
+.container img  {
+    position: relative;
+    float: right;
+    width: 20%;
+    top: 40px;
+    margin-bottom: 150px;
+}
+
+main > section > ul {
+    width: fit-content;
+    margin: 50px 0 0 0;
+}
+
+.one {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    display: block;
+}
